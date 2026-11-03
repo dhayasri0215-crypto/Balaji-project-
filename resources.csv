@@ -1,0 +1,8 @@
+title,category,skill_level,description,url
+Python Basics Course,Learning Resource,Beginner,Learn Python syntax variables conditions and loops,https://docs.python.org/3/tutorial/
+Beginner Python Mini Project,Project,Beginner,Build a simple calculator or quiz application,
+Python Data Analysis Internship,Internship,Intermediate,Practise Python and data analysis on sample datasets,
+Pandas Practice Project,Project,Intermediate,Explore and filter tabular data using Pandas,https://pandas.pydata.org/docs/
+NumPy Learning Guide,Learning Resource,Intermediate,Learn arrays and numerical operations,https://numpy.org/learn/
+Advanced Data Science Internship,Internship,Advanced,Apply data analysis and machine learning concepts in a project setting,
+Recommendation Systems Guide,Learning Resource,Advanced,Study recommendation system concepts and approaches,https://developers.google.com/machine-learning/recommendation
